@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial1</string>
+    <string name="email_label">Email</string>
+    <string name="login_button">LOGIN</string>
+</resources>
